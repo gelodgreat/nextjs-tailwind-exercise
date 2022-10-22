@@ -17,7 +17,7 @@ export const HomeCard = (props: HomeCardProps) => {
 						<Text className='max-w-xs font-bold font text-sm'>{data.address}</Text>
 						<Text>{`${data.city}, ${data.state} ${data.zipCode}`}</Text>
 					</Col>
-					<div className='flex-e'>
+					<div>
 						<FaCheckSquare color='green' size={20} />
 					</div>
 				</Row>
