@@ -17,9 +17,9 @@ yarn dev
 - Atomic design
 - NextJS
 
-![Homes list]![image](https://user-images.githubusercontent.com/20021423/197347957-10ea9ec2-3d1a-49cb-afa2-ba2ab7dc5b32.png)
+![Homes list] [image](https://user-images.githubusercontent.com/20021423/197347957-10ea9ec2-3d1a-49cb-afa2-ba2ab7dc5b32.png)
 
-![Login]![image](https://user-images.githubusercontent.com/20021423/197347948-c7c0e502-51ca-4dfc-ae9e-925482adf67d.png)
+![Login] [image](https://user-images.githubusercontent.com/20021423/197347948-c7c0e502-51ca-4dfc-ae9e-925482adf67d.png)
 
 - Use the users.json to authenticate the user
 - Save to localStorage with the user that is authenticated
