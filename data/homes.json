@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "address": "123 fake st",
+    "fullAddress": "123 fake st. Irvine, CA 92656",
+    "city": "Irvine",
+    "state": "CA",
+    "zipCode": 92656,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "yearBuilt": 2000,
+    "sqft": 2343,
+    "imgSrc": "https://i.pinimg.com/550x/7f/89/81/7f8981319cd68fc531501d31593a5749.jpg"
+  },
+  {
+    "id": 2,
+    "address": "3081 E 108th Dr.",
+    "fullAddress": "3081 E 108th Dr. Northglenn, CO 80233",
+    "city": "Northglenn",
+    "state": "CO",
+    "zipCode": 80233,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "yearBuilt": 2001,
+    "sqft": 3200,
+    "imgSrc": "https://i.pinimg.com/550x/7f/89/81/7f8981319cd68fc531501d31593a5749.jpg"
+  },
+  {
+    "id": 3,
+    "address": "7040 Scholarship",
+    "fullAddress": "7040 Scholarship",
+    "city": "Irvine",
+    "state": "CA",
+    "zipCode": 92612,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "yearBuilt": 2006,
+    "sqft": 2800,
+    "imgSrc": "https://i.pinimg.com/550x/7f/89/81/7f8981319cd68fc531501d31593a5749.jpg"
+  },
+  {
+    "id": 3,
+    "address": "68 Sobrante",
+    "fullAddress": "68 Sobrante Aliso Viejo, CA 92656",
+    "city": "Aliso Viejo",
+    "state": "CA",
+    "zipCode": 92656,
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "yearBuilt": 2000,
+    "sqft": 1200,
+    "imgSrc": "https://i.pinimg.com/550x/7f/89/81/7f8981319cd68fc531501d31593a5749.jpg"
+  }
+]
