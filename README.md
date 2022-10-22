@@ -1,34 +1,25 @@
 ## Getting Started
 
-First, run the development server:
 
 ```bash
+1.yarn or npm i
+2.
 npm run dev
 # or
 yarn dev
 
 ```
 
-## Preferred Technology
-
+## Used Technology Technology
+- styled-components for tailwind
+- typescript
 - Tailwind css
 - Atomic design
 - NextJS
 
-## Exercise #1
+![Homes list]![image](https://user-images.githubusercontent.com/20021423/197347957-10ea9ec2-3d1a-49cb-afa2-ba2ab7dc5b32.png)
 
-We will be building a set of components to create the following example:
-
-![Homes list](https://i.ibb.co/9TgxWzM/Screen-Shot-2022-10-21-at-12-37-43-PM.png)
-
-- On large screens they will be 4 in a row
-- On small screens they will be listed 1 per row
-
-## Exercise #2
-
-The next phase is building a simple sign in page. The example we are building is the following:
-
-![Login](https://i.ibb.co/RSwB46H/Screen-Shot-2022-10-21-at-12-46-18-PM.png)
+![Login]![image](https://user-images.githubusercontent.com/20021423/197347948-c7c0e502-51ca-4dfc-ae9e-925482adf67d.png)
 
 - Use the users.json to authenticate the user
 - Save to localStorage with the user that is authenticated
