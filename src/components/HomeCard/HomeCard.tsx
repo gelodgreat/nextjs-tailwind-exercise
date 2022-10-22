@@ -1,11 +1,11 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import { HomeCardProps } from './HomeCard.props';
-import { Container, Image, BottomContainer, Text, Row, Col } from './HomeCard.style';
+import { Container, Image, BottomContainer } from './HomeCard.style';
 import { FaBed, FaBath, FaHouseUser, FaHammer, FaCheckSquare } from 'react-icons/fa';
+import { Row, Col, Text } from 'common/common.styles';
 export const HomeCard = (props: HomeCardProps) => {
 	const { data } = props;
-	console.log(data);
 	return (
 		<Container>
 			<div className='z-10 relative'>

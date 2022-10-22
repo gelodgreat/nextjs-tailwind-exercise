@@ -11,7 +11,6 @@ export const Container = tw.div`
 export const Image = tw.img`
   rounded-md
   -z-50
-
 `;
 
 export const BottomContainer = tw.div`
@@ -21,18 +20,4 @@ bg-white
 -mt-8
 relative
 z-20
-
-`;
-
-export const Row = tw.div`
-flex-row
-flex
-`;
-
-export const Col = tw.div`
-flex-col
-flex
-`;
-
-export const Text = tw.p`
 `;
